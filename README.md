@@ -13,5 +13,14 @@ to run the code you need to install following libraries
 
 #### You also need to change the config.py
 ```{python}
-api_key= "Your API key here"
+api_key = "Your API key here"
 ```
+
+you need an open AI API key 🗝️ for gpt model to work
+you can get a key from [here](https://openai.com/)
+
+you will get free credit from open AI which is enough for testing
+
+# System requirements
+1. python 3.8 or above
+2. windows 10 or above
