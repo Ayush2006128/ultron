@@ -10,3 +10,8 @@ to run the code you need to install following libraries
 6. pip install pipwin 
 7. pipwin install pyaudio
 8. pip install openai
+
+#### You also need to change the config.py
+```{python}
+api_key= "Your API key here"
+```
